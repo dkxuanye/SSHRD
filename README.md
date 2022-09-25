@@ -1,2 +1,2 @@
 # SSHRD
-版本比较
+version: 1.0
